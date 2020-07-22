@@ -7,6 +7,8 @@ public class demo1 {
 		System.out.println("187");
 		
 		System.out.println("1817");
+		
+		System.out.println("1718");
 	}
 
 }
